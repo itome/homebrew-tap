@@ -1,9 +1,9 @@
 class Flx < Formula
   desc "Flutter DevTools TUI"
   homepage "https://github.com/itome/flx"
-  url "https://github.com/itome/flx/releases/download/0.1.11/flx-0.1.11-macos-arm64.tar.gz"
-  sha256 "d2d5259bfa905eb6cf8c76f96bd8880183e5715f977fa28c9d7517fb9c70696b"
-  version "0.1.11"
+  url "https://github.com/itome/flx/releases/download/0.1.12/flx-0.1.12-macos-arm64.tar.gz"
+  sha256 "fdec97588caa6dbf8a2923e574961a13cbfe1142ef1de926f91c6fb06eca770c"
+  version "0.1.12"
 
   def install
     bin.install "flx"
